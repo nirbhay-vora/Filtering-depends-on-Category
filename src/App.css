@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.all_images{
+  
+  height: 150px;
+  border-right: 1px solid grey; 
+  padding-right: 15px;
+}
+.text-data{
+  text-align: left;
+}
 
 .App-logo {
   height: 40vmin;
